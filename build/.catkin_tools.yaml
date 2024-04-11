@@ -1,0 +1,6 @@
+devel_space: /home/pao/KU_ws/devel
+install: false
+install_space: /home/pao/KU_ws/install
+profile: default
+source_space: /home/pao/KU_ws/src
+workspace: /home/pao/KU_ws

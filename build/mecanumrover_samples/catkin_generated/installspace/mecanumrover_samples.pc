@@ -1,0 +1,8 @@
+prefix=/home/pao/KU_ws/install
+
+Name: mecanumrover_samples
+Description: Description of mecanumrover_samples
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs roscpp rospy sensor_msgs std_msgs tf tf2 move_base

@@ -1,0 +1,6 @@
+[ 50%] Built target mecanum_joycon
+[ 83%] Built target mecanum_pub_odom
+[ 83%] Built target vmecanum_liftup_sus
+[ 50%] Built target vmecanum_odom
+[ 50%] Built target vmecanum_twist
+[100%] Built target vmecanum_sensor

@@ -1,0 +1,8 @@
+prefix=/home/pao/KU_ws/devel/.private/vs_rover_options_description
+
+Name: vs_rover_options_description
+Description: Description of vs_rover_options_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: urdf xacro
