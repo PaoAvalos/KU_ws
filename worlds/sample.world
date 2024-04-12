@@ -518,6 +518,15 @@
         <kinematic>0</kinematic>
       </link>
     </model>
+
+    <!-- An actor -->
+    <actor name="actor">
+    <pose>3.83643 2.11253 0.5 0 0 0</pose>
+      <skin>
+        <filename>walk.dae</filename>
+      </skin>
+    </actor>
+    
     <state world_name='default'>
       <sim_time>176 565000000</sim_time>
       <real_time>178 263270761</real_time>
