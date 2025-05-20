@@ -1,0 +1,25 @@
+    <actor name="moving_box">
+      <link name="link">
+            <static>1</static>
+        <collision name="collision">
+          <geometry>
+            <box>
+              <size>0.7 0.7 0.7</size> <!-- Adjust the size of the box -->
+            </box>
+          </geometry>
+        </collision>
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.7 0.7 0.7</size> <!-- Adjust the size of the box -->
+            </box>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>true</loop>
+        <delay_start>0.000000</delay_start>
+        <auto_start>true</auto_start>
+      </script>
